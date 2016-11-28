@@ -1,2 +1,19 @@
-# GitHub Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A collection of cool hidden and not so hidden features of Git and GitHub. This cheat sheet was inspired by [Zach Holman](https://github.com/holman)'s [Git and GitHub Secrets](http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets) talk at Aloha Ruby Conference 2012 ([slides](https://speakerdeck.com/holman/git-and-github-secrets)) and his [More Git and GitHub Secrets](https://vimeo.com/72955426) talk at WDCNZ 2013 ([slides](https://speakerdeck.com/holman/more-git-and-github-secrets)).
+# Deep Learning 
+Here is the collection of good blogs on various topics of Deep Learning
+
+[*Denioising Autoencoders*](http://deeplearning.net/tutorial/dA.html)
+
+[*LSTM*](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+[*Spatial Transformer Networks*](http://torch.ch/blog/2015/09/07/spatial_transformers.html)
+
+
+[*R-CNN for object detection*](https://medium.com/ilenze-com/object-detection-using-deep-learning-for-advanced-users-part-1-183bbbb08b19#.sv6bohxhl)
+
+[*Deep Compression*](https://www.oreilly.com/ideas/compressing-and-regularizing-deep-neural-networks)
+
+[*Generative models*](https://openai.com/blog/generative-models/)
+
+[*Variational Autoencoders*](http://blog.fastforwardlabs.com/post/148842796218/introducing-variational-autoencoders-in-prose-and)
+
+[*Genarative Adversarial Network*](http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/)
