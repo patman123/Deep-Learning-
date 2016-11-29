@@ -17,3 +17,5 @@ Here is the collection of good blogs on various topics of Deep Learning
 [*Variational Autoencoders*](http://blog.fastforwardlabs.com/post/148842796218/introducing-variational-autoencoders-in-prose-and)
 
 [*Genarative Adversarial Network*](http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/)
+
+[*CNN for NLP*](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
