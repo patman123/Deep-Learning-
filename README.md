@@ -19,3 +19,5 @@ Here is the collection of good blogs on various topics of Deep Learning
 [*Genarative Adversarial Network*](http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/)
 
 [*CNN for NLP*](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
+
+[*Pixel RNN*](https://github.com/tensorflow/magenta/blob/master/magenta/reviews/pixelrnn.md)
